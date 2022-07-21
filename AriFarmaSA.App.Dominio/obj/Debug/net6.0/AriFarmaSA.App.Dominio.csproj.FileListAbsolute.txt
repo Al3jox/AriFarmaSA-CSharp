@@ -1,0 +1,12 @@
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\bin\Debug\net6.0\AriFarmaSA.App.Dominio.deps.json
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\bin\Debug\net6.0\AriFarmaSA.App.Dominio.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\bin\Debug\net6.0\AriFarmaSA.App.Dominio.pdb
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.AssemblyInfo.cs
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\refint\AriFarmaSA.App.Dominio.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\AriFarmaSA.App.Dominio.pdb
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Dominio\obj\Debug\net6.0\ref\AriFarmaSA.App.Dominio.dll

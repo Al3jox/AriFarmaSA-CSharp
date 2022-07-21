@@ -8,7 +8,9 @@ namespace AriFarmaSA.App.Dominio
         public int Cantidad{get;set;}
         public int Valor{get;set;}
         public DateTime FechaPedido{get;set;}
-        
+
+        // Propiedad navigacional hacia la tabla "Producto"
+        public List<Producto> Producto{get;set;}
         // Llave Foranea
         public Distribuidor Distribuidor{get;set;}
     }

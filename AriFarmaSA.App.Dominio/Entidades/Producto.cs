@@ -15,14 +15,8 @@ namespace AriFarmaSA.App.Dominio
         public int PrecioCompra{get;set;}
         public int PrecioVenta{get;set;}
 
-        // Relación de agregación
-
-        public Pedido lote = null;
-
-        public void AdicionaLotePedido(Pedido lPedido){
-            if(lPedido != null)
-            lote = lPedido;
-        }
-
     }
+
+    
+
 }

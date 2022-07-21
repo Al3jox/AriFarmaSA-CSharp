@@ -1,0 +1,17 @@
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Persistencia.deps.json
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Persistencia.runtimeconfig.json
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Persistencia.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Persistencia.pdb
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.AssemblyInfo.cs
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\refint\AriFarmaSA.App.Persistencia.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.pdb
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.genruntimeconfig.cache
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\ref\AriFarmaSA.App.Persistencia.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Dominio.dll
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\bin\Debug\net6.0\AriFarmaSA.App.Dominio.pdb
+C:\Users\user\Documents\DesarrolloCSharp\AriFarmaSA-Web\AriFarmaSA.App\AriFarmaSA.App.Persistencia\obj\Debug\net6.0\AriFarmaSA.App.Persistencia.csproj.CopyComplete
